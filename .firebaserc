@@ -1,0 +1,18 @@
+{
+  "projects": {
+    "default": "chatapp-b4cdd"
+  },
+  "targets": {
+    "chatapp-b4cdd": {
+      "hosting": {
+        "cmschatantavaya": [
+          "chatapp-b4cdd"
+        ],
+        "cmschat-antavaya-cd99e": [
+          "cmschat-antavaya-cd99e"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
